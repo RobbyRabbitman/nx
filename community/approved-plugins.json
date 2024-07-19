@@ -488,5 +488,10 @@
     "name": "@huge-nx/conventions",
     "description": "Plugin to generate and manage Nx workspaces by adhering to established workspace conventions.",
     "url": "https://github.com/jogelin/huge-nx"
+  },
+  {
+    "name": "@robby-rabbitman/nx-plus-web-test-runner",
+    "description": "Web Test Runner plugin for Nx workspaces.",
+    "url": "https://github.com/RobbyRabbitman/nx-plus/tree/main/packages/web-test-runner"
   }
 ]
